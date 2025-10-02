@@ -6,19 +6,19 @@ class VersionskontrolleKI:
         self.revisionen = []
 
     def konfliktloesung(self, aenderung):
-        # Logik zur intelligenten Konfliktlösung
+        """Logik zur intelligenten Konfliktlösung"""
         pass
 
     def tageszusammenfassung(self):
-        # Generierung von täglichen Zusammenfassungen
+        """Generierung von täglichen Zusammenfassungen"""
         pass
 
     def zusammenarbeit(self, beitrag):
-        # Unterstützung der Zusammenarbeit unter Teams
+        """Unterstützung der Zusammenarbeit unter Teams"""
         pass
 
     def historische_analyse(self):
-        # Analyse der Änderungen über die Zeit
+        """Analyse der Änderungen über die Zeit"""
         pass
 
 if __name__ == '__main__':
