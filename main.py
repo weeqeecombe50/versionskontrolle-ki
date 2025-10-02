@@ -2,6 +2,7 @@
 
 class VersionControlAI:
     def __init__(self):
+        """Initialize the Version Control AI system."""
         # Project initialization
         self.revisions = []
 
