@@ -2,23 +2,23 @@
 
 class VersionControlAI:
     def __init__(self):
-        # Initialisierung des Projekts
+        # Project initialization
         self.revisions = []
 
     def conflict_resolution(self, change):
-        """Logik zur intelligenten Konfliktlösung"""
+        """Logic for intelligent conflict resolution"""
         pass
 
     def daily_summary(self):
-        """Generierung von täglichen Zusammenfassungen"""
+        """Generation of daily summaries"""
         pass
 
     def collaboration(self, contribution):
-        """Unterstützung der Zusammenarbeit unter Teams"""
+        """Support for team collaboration"""
         pass
 
     def historical_analysis(self):
-        """Analyse der Änderungen über die Zeit"""
+        """Analysis of changes over time"""
         pass
 
 if __name__ == '__main__':
