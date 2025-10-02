@@ -1,26 +1,26 @@
 #!/usr/bin/env python3
 
-class VersionskontrolleKI:
+class VersionControlAI:
     def __init__(self):
         # Initialisierung des Projekts
-        self.revisionen = []
+        self.revisions = []
 
-    def konfliktloesung(self, aenderung):
+    def conflict_resolution(self, change):
         """Logik zur intelligenten Konfliktlösung"""
         pass
 
-    def tageszusammenfassung(self):
+    def daily_summary(self):
         """Generierung von täglichen Zusammenfassungen"""
         pass
 
-    def zusammenarbeit(self, beitrag):
+    def collaboration(self, contribution):
         """Unterstützung der Zusammenarbeit unter Teams"""
         pass
 
-    def historische_analyse(self):
+    def historical_analysis(self):
         """Analyse der Änderungen über die Zeit"""
         pass
 
 if __name__ == '__main__':
-    ki_system = VersionskontrolleKI()
-    print('Versionskontrolle KI gestartet!')
+    ai_system = VersionControlAI()
+    print('Version Control AI started!')
