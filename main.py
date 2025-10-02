@@ -6,6 +6,10 @@ class VersionControlAI:
         # Project initialization
         self.revisions = []
 
+    def greet_user(self):
+        """Greet the user when the AI system starts"""
+        print('Welcome to the Version Control AI!')
+
     def conflict_resolution(self, change):
         """Logic for intelligent conflict resolution"""
         pass
@@ -24,4 +28,5 @@ class VersionControlAI:
 
 if __name__ == '__main__':
     ai_system = VersionControlAI()
+    ai_system.greet_user()
     print('Version Control AI started!')
